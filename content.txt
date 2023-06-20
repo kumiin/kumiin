@@ -8,3 +8,11 @@ Beberapa content:
 - LINUX SYSTEM
   * chmod
   * chown
+- Beberapa content:
+- WP
+- PHP
+- CSS
+- LINUX SYSTEM
+  * firewal
+  * routing
+- MYSQL
