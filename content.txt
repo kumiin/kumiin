@@ -1,6 +1,10 @@
 BERISI CONTENT PILIHAN YANG DIPERLUKAN UNTUK DITAMPILKAN
 Beberapa content:
-  WP
-  PHP
-  CSS
-  LINUX SYSTEM
+- WP
+- PHP
+- CSS
+  * order
+  * scalling
+- LINUX SYSTEM
+  * chmod
+  * chown
