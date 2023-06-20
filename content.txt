@@ -1,6 +1,9 @@
 BERISI CONTENT PILIHAN YANG DIPERLUKAN UNTUK DITAMPILKAN
-Beberapa content:
-  WP
-  PHP
-  CSS
-  LINUX SYSTEM
+- Beberapa content:
+- WP
+- PHP
+- CSS
+- LINUX SYSTEM
+  * firewal
+  * routing
+- MYSQL
